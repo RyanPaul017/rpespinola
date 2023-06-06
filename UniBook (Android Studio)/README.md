@@ -1,3 +1,5 @@
+NOTE: THIS IS MY FIRST PROJECT USING THIS THIS(ANDROID STUDIO).
+
 UniBook, also known as the Uniform Book System, is an Android application designed to help students who have difficulties purchasing uniforms.
 
 UniBook was built on the Android Studio development platform, which includes essential components such as the User Interface (UI), Plugin System, Build System, Code Editor, Emulator, and more. These components work together to improve the system's functionality and efficiency. With Android Studio, we have a complete environment for designing, building, and testing the Uniform Booking system.
