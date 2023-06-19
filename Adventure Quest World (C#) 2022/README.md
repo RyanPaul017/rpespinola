@@ -28,13 +28,13 @@ Here are the features:
   - Monster Titles
   - User Interface for Emulator (here you can handle the emu, rooms, logs, etc.)
   - WorldBoss
+  - Inspect Monster
   - Guild:
       - Guild Raid
       - Guild Operation
       - Guild Allies
       - Guild Progress
       - Guild Settings
-    - Inspect Monster
 
 Preview of development
   ![image](https://github.com/RyanPaul017/rpespinola/assets/135126242/cc5885ee-e9d6-4f38-b737-26a38b340095)
