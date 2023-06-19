@@ -3,7 +3,7 @@ Note: This is for educational purposes only. I created this because I want to le
 Aqw also knows Adventure Quest World is Free MMO/MMORPG Fantasy Roleplaying Game!
 Get ready for nonstop action and adventure! AdventureQuest Worlds is the best MMORPG (massively multiplayer online roleplaying game) that is browser based. There are no downloads or software to install, and this 2D MMO fantasy RPG is free to play! Brandish your blade, conjure your spells, and heed the call of Battle On!
 
-Since i created this i called "Dimension" the program language i use to create Dimension is C# (ASP NET CORE) and PHP for back-end.
+Since i created this i called "Dimension". The program language i use to create Dimension is C# (ASP NET CORE) and PHP for back-end.
 Dimension is based on SFS(Smart Fox Server) Emulator.
 
 Here are the features:
