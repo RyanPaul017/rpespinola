@@ -1,7 +1,8 @@
 Aqw also knows Adventure Quest World is Free MMO/MMORPG Fantasy Roleplaying Game!
 Get ready for nonstop action and adventure! AdventureQuest Worlds is the best MMORPG (massively multiplayer online roleplaying game) that is browser based. There are no downloads or software to install, and this 2D MMO fantasy RPG is free to play! Brandish your blade, conjure your spells, and heed the call of Battle On!
 
-Since i created this i called this "Dimension" the program language i use to create Dimension is C# (ASP NET CORE) and PHP for back-end.
+Since i created this i called "Dimension" the program language i use to create Dimension is C# (ASP NET CORE) and PHP for back-end.
+Dimension is based on SFS(Smart Fox Server) Emulator.
 
 Here are the features:
   - Trade
@@ -14,7 +15,7 @@ Here are the features:
   - Monsters Skills
   - Party
   - PVP
-  - Settings (Lots of seetings)
+  - Settings
   - Drop Panel
   - Quests
   - Rebirth
@@ -34,3 +35,5 @@ Here are the features:
     - Inspect Monster
    
   ![image](https://github.com/RyanPaul017/rpespinola/assets/135126242/cc5885ee-e9d6-4f38-b737-26a38b340095)
+
+Thanks to Kathleen for C# Socket and Thalys for Nemesis 0.1 (OLD EMU)
