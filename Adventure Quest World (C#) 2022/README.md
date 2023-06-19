@@ -1,3 +1,5 @@
+Note: This is for educational purposes only. I created this because I want to learn C#.
+
 Aqw also knows Adventure Quest World is Free MMO/MMORPG Fantasy Roleplaying Game!
 Get ready for nonstop action and adventure! AdventureQuest Worlds is the best MMORPG (massively multiplayer online roleplaying game) that is browser based. There are no downloads or software to install, and this 2D MMO fantasy RPG is free to play! Brandish your blade, conjure your spells, and heed the call of Battle On!
 
@@ -33,7 +35,8 @@ Here are the features:
       - Guild Progress
       - Guild Settings
     - Inspect Monster
-   
+
+Preview of developing
   ![image](https://github.com/RyanPaul017/rpespinola/assets/135126242/cc5885ee-e9d6-4f38-b737-26a38b340095)
 
 Thanks to Kathleen for C# Socket and Thalys for Nemesis 0.1 (OLD EMU)
