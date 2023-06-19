@@ -7,6 +7,7 @@ Since i created this i called "Dimension". The program language i use to create 
 Dimension is based on SFS(Smart Fox Server) Emulator.
 
 Here are the features:
+  - BattlePass
   - Trade
   - Auction
   - Chat
