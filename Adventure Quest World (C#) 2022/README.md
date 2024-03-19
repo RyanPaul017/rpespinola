@@ -41,4 +41,3 @@ Here are the features:
 Preview of development
   ![image](https://github.com/RyanPaul017/rpespinola/assets/135126242/cc5885ee-e9d6-4f38-b737-26a38b340095)
 
-Thanks to Kathleen for C# Socket and Thalys for Nemesis 0.1 (OLD EMU)
